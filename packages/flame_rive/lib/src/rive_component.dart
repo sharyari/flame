@@ -22,7 +22,7 @@ class RiveComponent extends PositionComponent {
     BoxFit fit = BoxFit.contain,
     Alignment alignment = Alignment.center,
 
-    // position component stuff
+    // position component arguments
     Vector2? position,
     Vector2? size,
     Vector2? scale,
